@@ -9,8 +9,8 @@ namespace FactoryPatternExercise2
     public class MongoDataAccess : IDataAccess
     {
 
-        public class SQLDataAccess : IDataAccess
-        {
+        
+        
             public static List<Product> Products = new List<Product>()
             {
                 new Product() { Name = "XBOX", Price = 350 },
@@ -33,7 +33,7 @@ namespace FactoryPatternExercise2
                 Console.WriteLine("I am saving data from a Mongo Data Access");
 
             }
-        }
+        
     }
 
 }

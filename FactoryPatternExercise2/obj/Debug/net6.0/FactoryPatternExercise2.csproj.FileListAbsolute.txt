@@ -3,3 +3,13 @@ C:\Users\19102\source\repos\Factory-Pattern-Exercise-2-BONUS\FactoryPatternExerc
 C:\Users\19102\source\repos\Factory-Pattern-Exercise-2-BONUS\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.AssemblyInfoInputs.cache
 C:\Users\19102\source\repos\Factory-Pattern-Exercise-2-BONUS\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.AssemblyInfo.cs
 C:\Users\19102\source\repos\Factory-Pattern-Exercise-2-BONUS\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.csproj.CoreCompileInputs.cache
+C:\Users\19102\source\repos\Factory-Pattern-Exercise-2-BONUS\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.exe
+C:\Users\19102\source\repos\Factory-Pattern-Exercise-2-BONUS\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.deps.json
+C:\Users\19102\source\repos\Factory-Pattern-Exercise-2-BONUS\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.runtimeconfig.json
+C:\Users\19102\source\repos\Factory-Pattern-Exercise-2-BONUS\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.dll
+C:\Users\19102\source\repos\Factory-Pattern-Exercise-2-BONUS\FactoryPatternExercise2\bin\Debug\net6.0\FactoryPatternExercise2.pdb
+C:\Users\19102\source\repos\Factory-Pattern-Exercise-2-BONUS\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.dll
+C:\Users\19102\source\repos\Factory-Pattern-Exercise-2-BONUS\FactoryPatternExercise2\obj\Debug\net6.0\refint\FactoryPatternExercise2.dll
+C:\Users\19102\source\repos\Factory-Pattern-Exercise-2-BONUS\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.pdb
+C:\Users\19102\source\repos\Factory-Pattern-Exercise-2-BONUS\FactoryPatternExercise2\obj\Debug\net6.0\FactoryPatternExercise2.genruntimeconfig.cache
+C:\Users\19102\source\repos\Factory-Pattern-Exercise-2-BONUS\FactoryPatternExercise2\obj\Debug\net6.0\ref\FactoryPatternExercise2.dll

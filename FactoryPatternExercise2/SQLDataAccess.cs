@@ -17,11 +17,12 @@ namespace FactoryPatternExercise2
 
         };
 
-        public void LoadData()
+        public List<Product> LoadData()
         {
            
             Console.WriteLine("I am reading data from SQL Data Access.");
-            
+
+            return Products;
             
         }
 
